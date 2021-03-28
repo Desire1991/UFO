@@ -2,7 +2,7 @@
 
 Overview:
 
-In this project, I created a table to organize UFO data stored as a JavaScript array. Then I transformed the data to a table using HTML, Bootstrap, and JavaScript D3 library. This table will have the ability to filter data based on specific criteria such as date, city, state, country, and UFO shape.
+In this project, I created a table with a main purpose of organizing UFO data stored as a JavaScript array. Then I changed the data to a table using HTML, Bootstrap, and JavaScript D3 library. The table will have the ability to filter data based on specific criteria such as date, city, state, country, and UFO shape, however this filtering process will be case sensitive
 
 Results:
 
@@ -19,7 +19,9 @@ Summary:
 
 One of the biggest drawbacks of this new design is that the filters are case-sensitive. Even if the users type the correct value that matches the data set but did not enter it as lowercase, the filter feature will not work.
 
-With that said, I have two suggestions that we can make in the next version of the website:
+With that been said, I have some suggestions that we can make in the next version of the website:
 
 We can use the Javascript Regular Expression feature in the Filter Search area to make it easier to search for the users.
 We can create a Reset Filters button so that users can clear all of the filter values that they entered without having to manually delete individual values or find the navigation bar to refresh the page.
+
+Another suggestion is to aid the filtering process would be to create a “Comments” filter. While it is not possible to filter to a specific comment by user input, the “Comments” filter could instead be used to look for specific phrases within the comments text such as “green” or “projectile”.
