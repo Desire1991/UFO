@@ -10,6 +10,11 @@ To perform the search, user can enter their desire values on the Filter Search s
 
 ![Entire_Table](https://user-images.githubusercontent.com/74233163/112760282-ea731900-8fbb-11eb-83d3-f0e8e03fab22.png)
 
+The HTML webpage also has the capability to hold changes to all five filters and, if occurrences with all five parameters exists, the table will be updated as well.
+
+![Filtering](https://user-images.githubusercontent.com/74233163/112760512-d5e35080-8fbc-11eb-88c9-3b5f80fcda45.png)
+
+
 To go back to the original table, either remove current values in the Filter Search section, click F5 on the keyboard, or click the title UFO Sightings on the top left of the web page.
 
 
