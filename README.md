@@ -1,6 +1,6 @@
 # UFO
 
-Overview:
+##Overview:
 
 In this project, I created a table with a main purpose of organizing UFO data stored as a JavaScript array. Then I changed the data to a table using HTML, Bootstrap, and JavaScript D3 library. The table will have the ability to filter data based on specific criteria such as date, city, state, country, and UFO shape, however this filtering process will be case sensitive
 
