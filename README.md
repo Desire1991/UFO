@@ -12,7 +12,8 @@ To perform the search, user can enter their desire values on the Filter Search s
 
 To go back to the original table, either remove current values in the Filter Search section, click F5 on the keyboard, or click the title UFO Sightings on the top left of the web page.
 
-##add png "The truth is out there
+
+![Webpage](https://user-images.githubusercontent.com/74233163/112760285-eba44600-8fbb-11eb-9826-293ef478fc46.png)
 
 Summary:
 
